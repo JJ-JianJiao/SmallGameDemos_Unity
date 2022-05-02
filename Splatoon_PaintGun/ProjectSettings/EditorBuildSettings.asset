@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PaintBallExercise.unity
+    guid: 73c048c7fdb193849803339493ac0480
   m_configObjects: {}
